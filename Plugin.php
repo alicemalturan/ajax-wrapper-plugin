@@ -63,7 +63,7 @@ class Plugin extends PluginBase
         return []; // Remove this line to activate
 
         return [
-            'alicemalturan.ajax-wrapper.some_permission' => [
+            'alicemalturan.ajaxwrapper.some_permission' => [
                 'tab' => 'AjaxClasser',
                 'label' => 'Some permission'
             ],
